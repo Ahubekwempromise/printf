@@ -38,7 +38,7 @@ Mandatory Tasks
  Handle conversion specifiers d, i.
  Create a man page for your function.
 Advanced Tasks
-Handle conversion specifier b.
+ Handle conversion specifier b.
  Handle conversion specifiers u, o, x, X.
  Use a local buffer of 1024 chars in order to call write as little as possible.
  Handle conversion specifier S.
@@ -62,6 +62,6 @@ print_hex.c: - contains the functions print_hex, which prints an unsigned int in
 print_unsigned_int.c: - contains the functions print_u, print_o, and print_b, which handle the conversion specifiers u, o, and b, respectively
 print_rot13.c - contains the function print_R, which handles the conversion specifier R
 Authors
-Ahubekwem Promise | Nnenna Njoku
+Nnenna Njoku | @Nnenna_Njoku
 
-Ahubekwem Promise | Nnenna Njoku
+Ahubekwem Promise | @Ahubekwem_Promise
